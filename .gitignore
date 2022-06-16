@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+config.py
+/__pycache__/__init__.pyc
+/Lib/site-packages/__pycache__/__init__.cpython-36.pyc
+/Scripts/python.exe
+pyvenv.cfg
+binance
+"""
